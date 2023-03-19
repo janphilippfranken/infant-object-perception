@@ -1,0 +1,10 @@
+plot_params = {'legend.fontsize': 'large',
+               'axes.labelsize': 'large',
+               'axes.titlesize':'20',
+               'axes.labelsize':'20',
+               'xtick.labelsize':'20',
+               'font.family': 'Arial',
+               'xtick.color':'grey',
+               'ytick.color':'grey',
+               'ytick.labelsize':'20',
+               'axes.linewidth': '3'}
